@@ -7,6 +7,6 @@ class Dog
     @ndname = dname
   end
   def name
-   @ndname
+    @ndname
   end
 end
