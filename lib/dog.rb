@@ -7,6 +7,6 @@ class Dog
     @ndname = dname
   end
   def name
-    puts "#{@ndname}"
+   @ndname
   end
 end
